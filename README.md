@@ -1,6 +1,7 @@
 # iOS Buger
 
-> [github](https://github.com/iosbuger/iosbuger.github.io)
+> [github.com](https://github.com/iosbuger/iosbuger.github.io)
+> [github.io](https://iosbuger.github.io)
 
 
 Hello World!
